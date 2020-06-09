@@ -14,17 +14,17 @@ body {
 }
 
 a {
-  color: #cc1616;
+  color: #000000;
 }
 
 a:hover {
-  color: #e82d2d;
+  color: #997c47;
   text-decoration: none;
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Raleway", sans-serif;
-  letter-spacing: 1px;
+  letter-spacing: 2px;
 }
 
 /*--------------------------------------------------------------
